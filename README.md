@@ -8,4 +8,4 @@
 
 <p>Use the above links to access different places in my repository.</p>
 
-<p>For any comments please message me.</p>****
+<p>For any comments please message me.</p>
